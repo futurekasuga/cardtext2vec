@@ -9,7 +9,7 @@ json形式で保存されているカードデータをMecabの分かち書き�
 形態素に分けてからdoc2vecで学習しています。
 
 ## 使用方法
-python cardtext2vec.py カード名 
+python cardtext2vec.py カード名  
 で類似度の高い順にカードを表示していきます。
 
 ## 実行環境  
