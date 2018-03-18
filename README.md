@@ -12,3 +12,10 @@ json形式で保存されているカードデータをMecabの分かち書き�
 使用方法は
 python cardtext2vec.py カード名
 で類似度の高い順にカードを表示していきます。
+
+実行環境
+Python 3.5.1
+mecab-python3 (0.7)
+Scrapy (1.5.0)
+requests (2.18.4)
+gensim (3.4.0)
